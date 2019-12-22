@@ -11,10 +11,7 @@ main()
 	printf("\n				- 	 STATIC QUEUE  -                       ");
 	while(1)
 	{	
-		printf("\n 1. Enqueue ");
-		printf("\n 2. Dequeue ");
-		printf("\n 3. Display ");
-		printf("\n 4. Exit ");
+		printf("\n 1. Enqueue \n 2. Dequeue \n 3. Display \n 4. Exit");
 		printf("Choose Option >  ");
 		scanf("%d",&opt);
 		switch(opt)
