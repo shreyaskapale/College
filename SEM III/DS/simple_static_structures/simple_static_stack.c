@@ -11,10 +11,7 @@ main()
 	printf("\n				- 	 STATIC STACK  -                       ");
 	while(1)
 	{	
-		printf("\n 1. Push ");
-		printf("\n 2. Pop  ");
-		printf("\n 3. Peek ");
-		printf("\n 4. Exit ");
+		printf("\n 1. Push \n2. Pop \n3. Peek()\n 4.Exit");
 		printf("Choose Option >  ");
 		scanf("%d",&opt);
 		switch(opt)
